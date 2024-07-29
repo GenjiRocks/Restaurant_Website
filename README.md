@@ -1,4 +1,4 @@
-# React Project
+# HTML Project
 
 ## Live Link
 You can view the live project [here](<https://restaurant-website-delta-jet.vercel.app/>).
